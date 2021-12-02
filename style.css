@@ -420,6 +420,12 @@ nav.show div.icon-close {
 }
 
 /* swiper */
+
+.swiper-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .swiper-slide {
   height: auto;
   padding: 4rem 1rem;
